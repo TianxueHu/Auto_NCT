@@ -1,0 +1,93 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 4 a
+**function	**harm	**kern	**kern	**kern	**beat	**mint	**mint
+*	*	*clefF4	*clefG2	*clefG2	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:	*D:	*	*D:	*D:
+=65	=65	=65	=65	=65	=65	=65	[A]
+*	*	*^	*	*	*	*	*
+*	*	*	*	*	*	*	*	*
+4T	4I	4D	4F#	[2A	[2A	1	[A]	=66
+4T	4V7	4AA	(8GL	[2A	.	.	.	.
+4T	4V7	4AA	8EJ)	[2A	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	P1
+2T	2Ib	4FF#	(8EL	2A]	2A]	.	P1	=67
+2T	2Ib	4FF#	8DJ)	2A]	.	.	.	.
+2T	2Ib	4r	(8DL	2A]	.	.	.	.
+2T	2Ib	4r	8C#J)	2A]	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	+P4
+2T	2IV	4GG	(8C#L	[2d	[2d	1	+P4	=68
+2T	2IV	4GG	8BBJ)	[2d	.	.	.	.
+2T	2IV	4GG	(8BBL	[2d	.	.	.	.
+2T	2IV	4GG	8DJ)	[2d	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	P1
+2T	2Ib	2FF#	8DL	2d]	2d]	.	P1	=69
+2T	2Ib	2FF#	8AAJ	2d]	.	.	.	.
+2T	2Ib	2FF#	4AA	2d]	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	+P5
+2T	2I	4.DD	8r	4a	4a	1	+P5	+P4
+2T	2I	4.DD	16FF#LL	4a	.	.	.	.
+2T	2I	4.DD	16AAJJ	4a	.	.	.	.
+2T	2I	4.DD	[4D	4dd	4dd	2	+P4	=70
+2T	2I	8FF#	[4D	4dd	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	+M2
+2T	2V7b	4.AA	8DL]	4ee	4ee	1	+M2	+P4
+2T	2V7b	4.AA	16C#L	4ee	.	.	.	.
+2T	2V7b	4.AA	16EJJ	4ee	.	.	.	.
+2T	2V7b	4.AA	[4G	4aa	4aa	2	+P4	=71
+2T	2V7b	8C#	[4G	4aa	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	+P4
+4.T	4.I	4.D	8GL]	2ddd	2ddd	1	+P4	=72
+4.T	4.I	4.D	16F#L	2ddd	.	.	.	.
+4.T	4.I	4.D	16EJJ	2ddd	.	.	.	.
+4.T	4.I	4.D	8F#L	2ddd	.	.	.	.
+8T	8viiob/V	8BB	8G#J	2ddd	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	-P4
+2D	2V	8C#L	4A	4aa	4aa	1	-P4	r
+2D	2V	8BBJ	4A	4aa	.	.	.	.
+2D	2V	8AA	4r	4r	4r	.	r	=73
+2D	2V	8r	4r	4r	.	.	.	.
+*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*
+=73	=73	=73	=73	=73	=73	=73	r
+2D	2V7	[2AAA	4r	4r	.	r	+M3
+*	*	*	*^	*	*	*	*
+2D	2V7	[2AAA	(4gg	([4ccc#	([4ccc#	2	+M3	=74
+=74	=74	=74	=74	=74	=74	=74	=74	P1
+2D	2Ic	2AAA]	4ff#)	8ccc#L]	8ccc#L]	.	P1	+m2
+2D	2Ic	2AAA]	4ff#)	8dddJ)	8dddJ)	1.5	+m2	-m6
+2D	2Ic	2AAA]	4dd	8ff#'L	8ff#'L	2	-m6	P1
+2D	2Ic	2AAA]	4dd	8ff#'J	8ff#'J	2.5	P1	=75
+=75	=75	=75	=75	=75	=75	=75	=75	r
+2D	2V7	2AA	4r	4r	4r	.	r	-P4
+2D	2V7	2AA	(4gg	([4cc#	([4cc#	2	-P4	=76
+=76	=76	=76	=76	=76	=76	=76	=76	+P4
+2D	2Ic	2A	8cc#L]	4ff#)	4ff#)	1	+P4	-M3
+2D	2Ic	2A	8ddJ)	4ff#)	.	.	.	.
+2D	2Ic	2A	8f#'L	4dd	4dd	2	-M3	=77
+*	*	*	*	*	*	*	*	*
+2D	2Ic	2A	8f#'J	4dd	.	.	.	.
+*	*	*	*v	*v	*	*	*	*
+=77	=77	=77	=77	.	.	.	.
+2D	2V7b	4r	2A	=77	=77	=77	-P11
+*	*	*^	*	*	*	*	*
+2D	2V7b	4C#	([4G	2A	2A	1	-P11	=78
+*	*	*	*	*	*	*	*	*
+=78	=78	=78	=78	=78	=78	=78	=78	+P4
+4T	4I	4D	8GL]	4d	4d	1	+P4	+P5
+4T	4I	4D	8F#J)	4d	.	.	.	.
+4T	4Ib	4FF#	8D'L	4a	4a	2	+P5	=79
+4T	4Ib	4FF#	8D'J	4a	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	+P5
+4P	4ii7b	4GG	8DL	4ee	4ee	1	+P5	+P4
+4P	4ii7b	4GG	16C#L	4ee	.	.	.	.
+4P	4ii7b	4GG	16BBJJ	4ee	.	.	.	.
+4D	4V	8AAL	8C#L	4aa	4aa	2	+P4	=80
+4D	4V	8AAJ	8C#J	4aa	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	+P4
+2T	2I	4DD	4D	4ddd	4ddd	1
+2T	2I	4DD	4r		
+*-	*-	*-	*-	*
+

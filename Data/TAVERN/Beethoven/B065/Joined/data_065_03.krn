@@ -1,0 +1,164 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 3 a
+**function	**harm	**kern	**kern	**kern	**beat	**mint	**mint
+*	*	*clefF4	*clefG2	*clefG2	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:	*D:	*	*D:	*D:
+=49	=49	=49	=49	=49	=49	=49	[ff#]
+4T	4I	16DDLL	8a'L 8ff#'	8ff#'	1	[ff#]	P1
+4T	4I	16EE	8a'L 8ff#'	.	.	.	.
+4T	4I	16FF#	(8aJ 8ff#	(8ff#	1.5	P1	-M2
+4T	4I	16GGJJ	(8aJ 8ff#	.	.	.	.
+4T	4V7	16AALL	8g'L) 8ee'	8ee') 	2	-M2	P1
+4T	4V7	16BB	8g'L) 8ee'	.	.	.	.
+4T	4V7	16C	(8gJ 8ee	(8ee	2.5	P1	=50
+4T	4V7	16C#JJ	(8gJ 8ee	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	-M2
+2T	2I	16DLL	8f#'L) 8dd'	8dd') 	1	-M2	P1
+2T	2I	16E	8f#'L) 8dd'	.	.	.	.
+2T	2I	16F#	8f#'J 8dd'	8dd'	1.5	P1	r
+2T	2I	16GJJ	8f#'J 8dd'	.	.	.	.
+2T	2I	16ALL	8r	8r	.	r	r
+2T	2I	16B	8r	.	.	.	.
+2T	2I	16c	16r	16r	.	r	-m2
+2T	2I	16c#JJ	16a' 16cc#'	16cc#'	2.75	-m2	=51
+*	*	*clefG2	*	*	*	*	*
+=51	=51	=51	=51	=51	=51	=51	-M2
+2T	2IV	16dLL	8g' 8b'	8b'	1	-M2	r
+2T	2IV	16e	8g' 8b'	.	.	.	.
+2T	2IV	16f#	8r	8r	.	r	-P8
+2T	2IV	16gJJ	8r	.	.	.	.
+*	*	*	*clefF4	*clefF4	*	*clefF4	*clefF4
+2T	2IV	16aLL	8G' 8B'	8B'	2	-P8	r
+2T	2IV	16b	8G' 8B'	.	.	.	.
+2T	2IV	16cc	8r	8r	.	r	=52
+2T	2IV	16cc#JJ	8r	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	-M2
+2T	2Ib	16ddLL	8F#' 8A'	8A'	1	-M2	r
+2T	2Ib	16ee	8F#' 8A'	.	.	.	.
+2T	2Ib	16ff#	8r	8r	.	r	r
+2T	2Ib	16ggJJ	8r	.	.	.	.
+2T	2Ib	16aaLL	4r	4r	.	r	=53
+2T	2Ib	16bb	4r	.	.	.	.
+2T	2Ib	16ccc#	4r	.	.	.	.
+2T	2Ib	16dddJJ	4r	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	-P8
+2T	2Ib	4r	16AALL	16AALL	1	-P8	+M2
+2T	2Ib	4r	16BB	16BB	1.25	+M2	+M2
+2T	2Ib	4r	16C#	16C#	1.5	+M2	+m2
+2T	2Ib	4r	16DJJ	16DJJ	1.75	+m2	+M2
+*	*	*clefF4	*	*	*	*	*
+2T	2Ib	8FF#L 8D	16ELL	16ELL	2	+M2	+M2
+2T	2Ib	8FF#L 8D	16F#	16F#	2.25	+M2	+m2
+2T	2Ib	(8FF#J 8D	16G	16G	2.5	+m2	A1
+2T	2Ib	(8FF#J 8D	16G#JJ	16G#JJ	2.75	A1	=54
+=54	=54	=54	=54	=54	=54	=54	+m2
+2T	2V7d	8GGL) 8C#	16ALL	16ALL	1	+m2	+M2
+2T	2V7d	8GGL) 8C#	16B	16B	1.25	+M2	+M2
+2T	2V7d	8GGJ 8C#	16c#	16c#	1.5	+M2	+m2
+2T	2V7d	8GGJ 8C#	16dJJ	16dJJ	1.75	+m2	+M2
+*	*	*	*clefG2	*clefG2	*	*clefG2	*clefG2
+2T	2V7d	8r	16eLL	16eLL	2	+M2	+M2
+2T	2V7d	8r	16f#	16f#	2.25	+M2	+m2
+2T	2V7d	16r	16g	16g	2.5	+m2	A1
+2T	2V7d	16C#' 16G'	16g#JJ	16g#JJ	2.75	A1	=55
+=55	=55	=55	=55	=55	=55	=55	+m2
+4T	4I	8D' 8F#'	16aLL	16aLL	1	+m2	+M2
+4T	4I	8D' 8F#'	16b	16b	1.25	+M2	+M2
+4T	4I	8r	16cc#	16cc#	1.5	+M2	+m2
+4T	4I	8r	16ddJJ	16ddJJ	1.75	+m2	+M2
+4T	4Ib	8F#' 8d'	16eeLL	16eeLL	2	+M2	+M2
+4T	4Ib	8F#' 8d'	16ff#	16ff#	2.25	+M2	+m2
+4T	4Ib	8r	16gg	16gg	2.5	+m2	A1
+4T	4Ib	8r	16gg#JJ	16gg#JJ	2.75	A1	=56
+=56	=56	=56	=56	=56	=56	=56	+m2
+2D	2V	8A' 8c#'	8aa	8aa	1	+m2	r
+2D	2V	8r	8r	8r	.	r	r
+2D	2V	8AA'	4r	4r	.	.	.
+2D	2V	8r	4r	.	.	.	.
+*-	*-	*-	*-	*-	*-	*-	*-
+**function	**harm	**kern	**kern	**kern	**beat	**mint	**mint
+*	*	*clefF4	*clefG2	*clefG2	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:	*D:	*	*D:	*D:
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 3 b
+=57	=57	=57	=57	=57	=57	=57	[gg]
+2D	2V7	16AAALL	8ee'L 8gg'	8ee'L 8gg'	1	[ee]	P1
+2D	2V7	16BBB	8ee'L 8gg'	.	.	.	.
+2D	2V7	16CC#	(8eeJ 8gg	(8eeJ 8gg	1.5	P1	-d5
+2D	2V7	16DDJJ	(8eeJ 8gg	.	.	.	.
+2D	2V7	16EELL	8g'L) 8cc#'	8g'L) 8cc#'	2	-M6	P1
+2D	2V7	16FF#	8g'L) 8cc#'	.	.	.	.
+2D	2V7	16GG	(8gJ 8cc#	(8gJ 8cc#	2.5	P1	=58
+2D	2V7	16GG#JJ	(8gJ 8cc#	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	+m2
+2D	2Ic	16AALL	8f#'L) 8dd'	8f#'L) 8dd'	1	-m2	P1
+2D	2Ic	16BB	8f#'L) 8dd'	.	.	.	.
+2D	2Ic	16C#	8f#'J 8dd'	8f#'J 8dd'	1.5	P1	r
+2D	2Ic	16DJJ	8f#'J 8dd'	.	.	.	.
+2D	2Ic	16ELL	8r	8r	.	r	r
+2D	2Ic	16F#	8r	.	.	.	.
+2D	2Ic	16G	16r	16r	.	r	-m6
+2D	2Ic	16G#JJ	16d' 16f#'	16d' 16f#'	2.75	-M3	=59
+*	*	*clefG2	*	*	*	*	*
+=59	=59	=59	=59	=59	=59	=59	+m2
+2D	2V7	16ALL	8c#' 8g'	8c#' 8g'	1	-m2	r
+2D	2V7	16B	8c#' 8g'	.	.	.	.
+2D	2V7	16c#	8r	8r	.	r	-d5
+2D	2V7	16dJJ	8r	.	.	.	.
+*	*	*	*clefF4	*clefF4	*	*clefF4	*clefF4
+2D	2V7	16eLL	8G' 8c#'	8G' 8c#'	2	-A4	r
+2D	2V7	16f#	8G' 8c#'	.	.	.	.
+2D	2V7	16g	8r	8r	.	r	=60
+2D	2V7	16g#JJ	8r	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	+m2
+2D	2Ib	16aLL	8F#' 8d'	8F#' 8d'	1	-m2	r
+2D	2Ib	16b	8F#' 8d'	.	.	.	.
+2D	2Ib	16cc#	8r	8r	.	r	r
+2D	2Ib	16ddJJ	8r	.	.	.	.
+2D	2Ib	16eeLL	4r	4r	.	r	=61
+2D	2Ib	16ff#	4r	.	.	.	.
+2D	2Ib	16gg	4r	.	.	.	.
+2D	2Ib	16aaJJ	4r	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	-P11
+4D	4V	4r	16AALL	16AALL	1	-M6	+M2
+4D	4V	4r	16BB	16BB	1.25	+M2	+M2
+4D	4V	4r	16C#	16C#	1.5	+M2	+m2
+4D	4V	4r	16DJJ	16DJJ	1.75	+m2	+M2
+*	*	*clefF4	*	*	*	*	*
+4D	4V7d	8GGGL 8GG	16ELL	16ELL	2	+M2	+M2
+4D	4V7d	8GGGL 8GG	16F#	16F#	2.25	+M2	+m2
+4D	4V7d	(8GGGJ 8GG	16G	16G	2.5	+m2	A1
+4D	4V7d	(8GGGJ 8GG	16G#JJ	16G#JJ	2.75	A1	=62
+=62	=62	=62	=62	=62	=62	=62	+m2
+2D	2Ib	8FFF#L) 8FF#	16ALL	16ALL	1	+m2	+M2
+2D	2Ib	8FFF#L) 8FF#	16B	16B	1.25	+M2	+M2
+2D	2Ib	8FFF#J 8FF#	16c#	16c#	1.5	+M2	+m2
+2D	2Ib	8FFF#J 8FF#	16dJJ	16dJJ	1.75	+m2	+M2
+*	*	*	*clefG2	*clefG2	*	*clefG2	*clefG2
+2D	2Ib	8.r	16eLL	16eLL	2	+M2	+M2
+2D	2Ib	8.r	16f#	16f#	2.25	+M2	+m2
+2D	2Ib	8.r	16g	16g	2.5	+m2	A1
+2D	2Ib	16D' 16F#'	16g#JJ	16g#JJ	2.75	A1	=63
+=63	=63	=63	=63	=63	=63	=63	+m2
+4D	4V7b	8G'	16aLL	16aLL	1	+m2	+M2
+4D	4V7b	8G'	16b	16b	1.25	+M2	+M2
+4D	4V7b	8r	16cc#	16cc#	1.5	+M2	+m2
+4D	4V7b	8r	16ddJJ	16ddJJ	1.75	+m2	+M2
+4D	4V7	8AA' 8C#' 8E'	16eeLL	16eeLL	2	+M2	+M2
+4D	4V7	8AA' 8C#' 8E'	16ff#	16ff#	2.25	+M2	+m2
+4D	4V7	8r	16gg	16gg	2.5	+m2	A1
+4D	4V7	8r	16gg#JJ	16gg#JJ	2.75	A1	=64
+=64	=64	=64	=64	=64	=64	=64	+m2
+2T	2I	8D'	16aaLL	16aaLL	1	+m2	+M2
+2T	2I	8D'	16bb	16bb	1.25	+M2	+M2
+2T	2I	8r	16ccc#	16ccc#	1.5	+M2	+m2
+2T	2I	8r	16dddJJ	16dddJJ	1.75	+m2	r
+2T	2I	8DD'	4r	4r	.	.	.
+2T	2I	8r	4r	.	.	.	.
+*-	*-	*-	*-	*-	*-	*-	*-

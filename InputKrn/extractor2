@@ -1,0 +1,45 @@
+#!/usr/bin/env bash
+
+echo $1
+	#extract left-most spine as default melody spine
+extractx -e $1 | extractx -s '1,2,3' > tmp
+	#this line gets rid of double (or more) stops so we keep highest output of melody spine; get rid of null data tokens
+sed 's/	[^	]* \([^	]*\)$/	\1/g' tmp | ridx -d > tmp2
+	#ensure key info from harm spine makes it to kern (melody) spine
+sed 's/^\*\([A-Ga-g][-#]*:\)	\*$/*\1	*\1/g' tmp2 > tmp3
+	#take right most spine and save as melody
+extractx -s '2' tmp3 > melody
+	#calculate beat position for each note in melody (default is beat = 4)
+beat -n melody > beat_ps
+	#calculate durations only for each note
+beat -dn -A 0 melody > dur
+	#translate each note in melody to scale degree (needs up to date key info)
+deg -a melody | grep -v '^$' > scale_deg
+	#calculate melodic intervals for melody spine
+mint -s q melody | grep -v '^$' > mint
+	#create key spine from scale_deg
+cp scale_deg sdeg
+	#replace any data points with 'dot'; remove colon from key interp; ditto but skip barlines; change local interpretation to "**key"
+sed 's/^[^=*!].*/./g' sdeg | sed 's/\*\([A-Ga-g][#-1]*\):/\1/g'| ditto -s '=' | sed 's/\*\*function/**key/g'> keytmp
+	#assemble melody, beat position, duration, scale degree, melodic ints into one file:
+##tess add ditto
+ditto -s '=' tmp3 > tmp4
+assemble tmp4 beat_ps dur scale_deg mint > assem
+	#paste the key spine to the end (don't use assemble because of deleted interpretations will cause misalignment of parts)
+paste assem keytmp > assem2
+	#get rid of all global and local intepretations manually but keep spine interpreations
+grep -v '^!.*' assem2 | grep -v '^\*[^\*-].*' > $(basename $1 .krn)_features.krn
+
+rm mint
+rm assem
+rm assem2
+rm dur
+rm tmp
+rm tmp2
+rm melody
+rm beat_ps
+rm scale_deg
+rm keytmp
+rm sdeg
+rm tmp3
+rm tmp4

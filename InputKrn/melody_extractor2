@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+echo $1
+	#extract left-most spine as default melody spine
+extractx -e $1 | extractx -s '2,$' > tmp
+	#this line gets rid of double (or more) stops so we keep highest output of melody spine; get rid of null data tokens
+sed 's/	[^	]* \([^	]*\)$/	\1/g' tmp | ridx -d > tmp2
+	#ensure key info from harm spine makes it to kern (melody) spine
+sed 's/^\*\([A-Ga-g][-#]*:\)	\*$/*\1	*\1/g' tmp2 > melody.krn
+	#take right most spine and save as melody
+
+rm tmp
+rm tmp2

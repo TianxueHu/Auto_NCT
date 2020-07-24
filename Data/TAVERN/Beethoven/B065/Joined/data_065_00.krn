@@ -1,0 +1,83 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Theme b
+!!!Variation: Theme a
+**function	**harm	**kern	**kern	**kern	**beat	**mint	**mint
+*	*	*clefF4	*clefG2	*clefG2	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:	*D:	*	*D:	*D:
+=1	=1	=1	=1	=1	=1	=1	[ff#]
+4T	4I	8D	8a 8ff#	8ff#	1	[ff#]	r
+4T	4I	8r	8r	8r	.	r	-M2
+4T	4V7	8AA	8g 8ee	8ee	2	-M2	r
+4T	4V7	8r	8r	8r	.	r	=2
+=2	=2	=2	=2	=2	=2	=2	-M2
+2T	2vi	4BB	4f# 4dd	4dd	1	-M2	r
+2T	2vi	4r	8.r	8.r	.	r	-m2
+2T	2vi	4r	16cc#	16cc#	2.75	-m2	=3
+=3	=3	=3	=3	=3	=3	=3	-M2
+2T	2IV	8GG	8g 8b	8b	1	-M2	r
+2T	2IV	8r	8r	8r	.	r	P1
+2T	2IV	8BB	8g 8b	8b	2	P1	r
+2T	2IV	8r	8r	8r	.	r	=4
+=4	=4	=4	=4	=4	=4	=4	-M2
+2T	2I	8D	8f# 8a	8a	1	-M2	r
+2T	2I	8r	8r	8r	.	r	r
+2T	2I	4r	4r	4r	.	r	=5
+=5	=5	=5	=5	=5	=5	=5	-m3
+2T	2I	8D 8A	8d 8f#	8f#	1	-m3	r
+2T	2I	8r	8r	8r	.	r	P1
+2T	2I	(4D [4A	(4d 4f#	(4f#	2	P1	=6
+=6	=6	=6	=6	=6	=6	=6	+m2
+2T	2V7b	8C#) 8A]	8e) 8g	8g)	1	+m2	r
+2T	2V7b	8r	8r	8r	.	r	P1
+2T	2V7b	(4C# [4A	(4e 4g	(4g	2	P1	=7
+=7	=7	=7	=7	=7	=7	=7	-m2
+2T	2I	8D) 8A]	8d) 8f#	8f#)	1	-m2	r
+2T	2I	8r	8r	8r	.	r	P1
+2T	2I	4D 4A	4d 4f#	4f#	2	P1	=8
+=8	=8	=8	=8	=8	=8	=8	-M2
+2D	2V	4AA 4A	4c# 4e	4e	1	-M2	r
+2D	2V	4r	4r	4r	.	r	=9
+=9	=9	=9	=9	=9	=9	=9	P1
+2D	2V7	2AA 2G	2c#	8e	1	P1	r
+2D	2V7	2AA 2G	2c#	8r	.	r	+P4
+2D	2V7	2AA 2G	2c#	8a	2	+P4	r
+2D	2V7	2AA 2G	2c#	8r	.	r	=10
+=10	=10	=10	=10	=10	=10	=10	-m3
+2D	2Ic	2AA 2F#	2d	8f#	1	-m3	r
+2D	2Ic	2AA 2F#	2d	8r	.	r	+m6
+2D	2Ic	2AA 2F#	2d	8dd	2	+m6	r
+2D	2Ic	2AA 2F#	2d	8r	.	r	=11
+=11	=11	=11	=11	=11	=11	=11	+M2
+2D	2V7	2AA 2C# 2G	8ee	8ee	1	+M2	r
+2D	2V7	2AA 2C# 2G	8r	8r	.	r	-P5
+2D	2V7	2AA 2C# 2G	8a	8a	2	-P5	r
+2D	2V7	2AA 2C# 2G	8r	8r	.	r	=12
+=12	=12	=12	=12	=12	=12	=12	+P4
+2D	2Ic	2AA 2D 2F#	8dd	8dd	1	+P4	r
+2D	2Ic	2AA 2D 2F#	8r	8r	.	r	-P8
+2D	2Ic	2AA 2D 2F#	8d	8d	2	-P8	r
+2D	2Ic	2AA 2D 2F#	8r	8r	.	r	=13
+=13	=13	=13	=13	=13	=13	=13	+M2
+2D	2V7	2AA 2G	2c#	8e	1	+M2	r
+2D	2V7	2AA 2G	2c#	8r	.	r	+P4
+2D	2V7	2AA 2G	2c#	8a	2	+P4	r
+2D	2V7	2AA 2G	2c#	8r	.	r	=14
+=14	=14	=14	=14	=14	=14	=14	-m3
+2D	2Cc	2AA 2F#	2d	8f#	1	-m3	r
+2D	2Cc	2AA 2F#	2d	8r	.	r	+m6
+2D	2Cc	2AA 2F#	2d	8dd	2	+m6	r
+2D	2Cc	2AA 2F#	2d	8r	.	r	=15
+=15	=15	=15	=15	=15	=15	=15	-P4
+2D	2V7	2AA	4A	4a	1	-P4	-m2
+2D	2V7	2AA	4G	16g#LL	2	-m2	+m2
+2D	2V7	2AA	4G	16a	2.25	+m2	+M2
+2D	2V7	2AA	4G	16b	2.5	+M2	-M2
+2D	2V7	2AA	4G	16aJJ	2.75	-M2	=16
+=16	=16	=16	=16	=16	=16	=16	-P5
+2T	2I	4D	4F#	4d	1	-P5	r
+2T	2I	4r	4r	4r	.	.	.
+*-	*-	*-	*-
+

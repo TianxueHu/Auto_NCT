@@ -1,0 +1,36 @@
+
+for i in B*_a.krn
+do
+
+echo $i
+
+extractx -s '$' $i > tmp
+extractx -s '1,2' $i > harm
+
+sed 's#.* \(.*\)$#\1#g' tmp > melody
+beat -n melody > beat_ps
+beat -dn -A 0 melody > dur
+deg -a melody | grep -v '^$' > scale_deg
+mint melody | grep -v '^$' > mint
+
+assemble harm tmp beat_ps dur scale_deg mint > assem
+ridx -GLid assem | extractx -s 1 $1 | sed 's/^[^=].*/./g' | sed 's/\*\([A-Ga-g][#-1]*\):/\1/g'| ditto -s '=' | sed 's/\*\*function/**key/g' > key
+
+assemble assem key > assem2
+ditto assem2 > final
+rid -GLId final > $(basename $i .krn)_extracted.krn 
+
+rm mint
+rm dur
+rm final 
+
+rm tmp
+
+rm tmp2
+rm melody
+rm beat_ps
+rm scale_deg
+rm harm
+
+done
+

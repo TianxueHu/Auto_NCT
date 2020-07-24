@@ -1,0 +1,106 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 24 d
+**function	**harm	**kern	**kern
+*	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:
+=482	=482	=482	=482
+*	*	*^	*
+2T	2I/-VI	[2B-	8fL	(4ddd
+.	.	.	8b-J	.
+.	.	.	8e-L	4ccc)
+.	.	.	8b-J	.
+=483	=483	=483	=483	=483
+2T	2I/-VI	2B-]	8dL	4.bb-
+.	.	.	8b-J	.
+.	.	.	8fL	.
+.	.	.	8b-J	(8aa
+=484	=484	=484	=484	=484
+2T	2IV/-VI	[2B-	8e-L	4gg)
+.	.	.	8b-J	.
+.	.	.	8e-L	8ggL
+.	.	.	8b-J	8bb-J
+=485	=485	=485	=485	=485
+2T	2I/-VI	2B-]	8dL	(2ff
+.	.	.	8b-J	.
+.	.	.	8fL	.
+.	.	.	8b-J	.
+=486	=486	=486	=486	=486
+2P	2viioD7d	4B-	8c#L	(4ee')
+.	.	.	8gJ	.
+.	.	(4B-	8c#L	4ee')
+.	.	.	8gJ	.
+=487	=487	=487	=487	=487
+2D	2V7	2A)	8c#L	4ee
+.	.	.	8gJ	.
+.	.	.	8c#L	[4aa
+.	.	.	8gJ	.
+=488	=488	=488	=488	=488
+4D	4Cc	4A	8dL	4aa]
+.	.	.	8f#J	.
+4D	4V7	4A	8gL	(8bbL
+.	.	.	8eJ	8ccc#J)
+*	*	*v	*v	*
+*	*	*clefF4	*
+=489	=489	=489	=489
+2T	2I	4d'	4ddd
+.	.	4D'	4r
+=490	=490	=490	=490
+*	*	*^	*
+2T	2I/-VI	[2BB-	8FL	(4dd 4ddd
+.	.	.	8B-J	.
+.	.	.	8E-L	4cc 4ccc
+.	.	.	8B-J	.
+=491	=491	=491	=491	=491
+2T	2I/-VI	2BB-]	8DL	4.b- 4.bb-
+.	.	.	8B-J	.
+.	.	.	8FL	.
+.	.	.	8B-J	8a) 8aa
+=492	=492	=492	=492	=492
+2T	2IV/-VI	[2BB-	8E-L	4g 4gg
+.	.	.	8B-J	.
+.	.	.	8E-L	8b-L 8gg
+.	.	.	8B-J	8bb-J
+=493	=493	=493	=493	=493
+2T	2I/-VI	2BB-]	8DL	(2f 2ff
+.	.	.	8B-J	.
+.	.	.	8FL	.
+.	.	.	8B-J	.
+=494	=494	=494	=494	=494
+2P	2viioD7d	4BB-	8C#L	(4e') 4ee'
+.	.	.	8GJ	.
+.	.	4BB-	8C#L	4e') 4ee'
+.	.	.	8GJ	.
+=495	=495	=495	=495	=495
+2D	2V7	2AA	8C#L	4e 4ee
+.	.	.	8GJ	.
+.	.	.	8C#L	[4a [4aa
+.	.	.	8GJ	.
+=496	=496	=496	=496	=496
+2D	2V7/IV	4AA	8DL	4a] 4aa]
+.	.	.	8F#J	.
+.	.	4AA	8CL	8bL 8bb
+.	.	.	8F#J	8ccJ 8ccc
+=497	=497	=497	=497	=497
+2T	2I/IV	[2GG	8BBL 8D	([4dd 4bb [4ddd
+.	.	.	8GJ	.
+.	.	.	8CL	4dd] 4aa 4ddd]
+.	.	.	8GJ	.
+=498	=498	=498	=498	=498
+2T	2I/IV	2GG]	8BBL	4.gg
+.	.	.	8GJ	.
+.	.	.	8DL	.
+.	.	.	8GJ	8ff#
+=499	=499	=499	=499	=499
+2T	2IV/IV	[2GG	8CL	4ee)
+.	.	.	8GJ	.
+.	.	.	8CL	(8eeL
+.	.	.	8GJ	8ggJ)
+=500	=500	=500	=500	=500
+2T	2I/IV	2GG]	8BBL	2dd
+.	.	.	8GJ	.
+.	.	.	8DL	.
+.	.	.	8GJ	.
+*-	*-	*-	*-

@@ -1,0 +1,8 @@
+
+
+for i in *extracted.krn
+do
+echo $i
+
+cat data.krn $i >> data.krn
+done

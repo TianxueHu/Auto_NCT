@@ -1,0 +1,149 @@
+!!!COM: Beethoven
+!!!OTL: 24 Variationen uber Venni Amore von V. Righini
+!!!Variation: Variation 2 a
+**function	**harm	**kern	**kern	**kern	**beat	**mint	**mint
+*	*	*clefF4	*clefG2	*clefG2	*	*clefG2	*clefG2
+*	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4
+*D:	*D:	*D:	*D:	*D:	*	*D:	*D:
+=33	=33	=33	=33	=33	=33	=33	[ff#]
+4T	4I	8r	8ff#'L	8ff#'L	1	[ff#]	P1
+4T	4I	8D 8F# 8A 8d	(32ff#LK	(32ff#LK	1.5	P1	+m3
+4T	4I	8D 8F# 8A 8d	16aa'JJ)	16aa'JJ)	1.625	+m3	r
+4T	4I	8D 8F# 8A 8d	32r	32r	.	r	-P4
+4T	4V7d	8r	8ee'L	8ee'L	2	-P4	P1
+4T	4V7d	8G 8A 8c#	(32eeLK	(32eeLK	2.5	P1	+P4
+4T	4V7d	8G 8A 8c#	16aa'JJ)	16aa'JJ)	2.625	+P4	r
+4T	4V7d	8G 8A 8c#	32r	32r	.	r	=34
+=34	=34	=34	=34	=34	=34	=34	-P5
+4T	4Ib	8r	8dd'L	8dd'L	1	-P5	P1
+4T	4Ib	8F# 8A 8d	(32ddLK	(32ddLK	1.5	P1	+P8
+4T	4Ib	8F# 8A 8d	16ddd'JJ)	16ddd'JJ)	1.625	+P8	r
+4T	4Ib	8F# 8A 8d	32r	32r	.	r	-M9
+4T	4V7b/IV	8r	8cc'L	8cc'L	2	-M9	P1
+4T	4V7b/IV	8F# 8A 8c 8d	(32ccLK	(32ccLK	2.5	P1	+P8
+4T	4V7b/IV	8F# 8A 8c 8d	16ccc'JJ)	16ccc'JJ)	2.625	+P8	r
+4T	4V7b/IV	8F# 8A 8c 8d	32r	32r	.	r	=35
+=35	=35	=35	=35	=35	=35	=35	-m9
+4T	4IV	8r	8b'L	8b'L	1	-m9	P1
+4T	4IV	8G 8B 8d	(32bLK	(32bLK	1.5	P1	+P8
+4T	4IV	8G 8B 8d	16bb'JJ)	16bb'JJ)	1.625	+P8	r
+4T	4IV	8G 8B 8d	32r	32r	.	r	-m7
+4T	4V7d	8r	8cc#'L	8cc#'L	2	-m7	P1
+4T	4V7d	8G 8A 8c# 8e	(32cc#LK	(32cc#LK	2.5	P1	+P8
+4T	4V7d	8G 8A 8c# 8e	16ccc#'JJ)	16ccc#'JJ)	2.625	+P8	r
+4T	4V7d	8G 8A 8c# 8e	32r	32r	.	r	=36
+=36	=36	=36	=36	=36	=36	=36	-M7
+2T	2Ib	8r	8dd'L	8dd'L	1	-M7	P1
+2T	2Ib	8F# 8A 8d 8f#	(32ddLK	(32ddLK	1.5	P1	+P8
+2T	2Ib	8F# 8A 8d 8f#	16ddd'JJ)	16ddd'JJ)	1.625	+P8	r
+2T	2Ib	8F# 8A 8d 8f#	32r	32r	.	r	-P11
+2T	2Ib	4r	8a'L	8a'L	2	-P11	P1
+2T	2Ib	4r	(32aLK	(32aLK	2.5	P1	+P8
+2T	2Ib	4r	16aa'JJ)	16aa'JJ)	2.625	+P8	r
+2T	2Ib	4r	32r	32r	.	r	=37
+=37	=37	=37	=37	=37	=37	=37	-m10
+2T	2V7/ii	8r	8f#'L	8f#'L	1	-m10	P1
+2T	2V7/ii	8D# 8F# 8A 8B	(32f#LK	(32f#LK	1.5	P1	+P8
+2T	2V7/ii	8D# 8F# 8A 8B	16ff#'JJ)	16ff#'JJ)	1.625	+P8	r
+2T	2V7/ii	8D# 8F# 8A 8B	32r	32r	.	r	P1
+2T	2V7/ii	8r	8ff#'L	8ff#'L	2	P1	P1
+2T	2V7/ii	8BB 8D# 8F# 8A	(32ff#LK	(32ff#LK	2.5	P1	+P4
+2T	2V7/ii	8BB 8D# 8F# 8A	16bb'JJ)	16bb'JJ)	2.625	+P4	r
+2T	2V7/ii	8BB 8D# 8F# 8A	32r	32r	.	r	=38
+=38	=38	=38	=38	=38	=38	=38	-P12
+4T	4ii	8r	8e'L	8e'L	1	-P12	P1
+4T	4ii	8E 8G	(32eLK	(32eLK	1.5	P1	+P8
+4T	4ii	8E 8G	16ee'JJ)	16ee'JJ)	1.625	+P8	r
+4T	4ii	8E 8G	32r	32r	.	r	P1
+4T	4V7	8r	8ee'L	8ee'L	2	P1	P1
+4T	4V7	8AA 8C# 8E 8G	(32eeLK	(32eeLK	2.5	P1	+P4
+4T	4V7	8AA 8C# 8E 8G	16aa'JJ)	16aa'JJ)	2.625	+P4	r
+4T	4V7	8AA 8C# 8E 8G	32r	32r	.	r	=39
+=39	=39	=39	=39	=39	=39	=39	-P12
+4T	4I	8r	8d'L	8d'L	1	-P12	P1
+4T	4I	8D 8F#	(32dLK	(32dLK	1.5	P1	+P8
+4T	4I	8D 8F#	16dd'JJ)	16dd'JJ)	1.625	+P8	r
+4T	4I	8D 8F#	32r	32r	.	r	P1
+4T	4V7c/V	8r	8dd'L	8dd'L	2	P1	P1
+4T	4V7c/V	8BB 8D 8E 8G#	(32ddLK	(32ddLK	2.5	P1	+P8
+4T	4V7c/V	8BB 8D 8E 8G#	16ddd'JJ)	16ddd'JJ)	2.625	+P8	r
+4T	4V7c/V	8BB 8D 8E 8G#	32r	32r	.	r	=40
+=40	=40	=40	=40	=40	=40	=40	-P11
+2D	2V	8r	8a'L	8a'L	1	-P11	P1
+2D	2V	8AA 8C# 8E 8A	(32aLK	(32aLK	1.5	P1	+P8
+2D	2V	8AA 8C# 8E 8A	16aa'JJ)	16aa'JJ)	1.625	+P8	r
+2D	2V	8AA 8C# 8E 8A	32r	32r	.	r	r
+2D	2V	8AAA	4r	4r	.	r	=41
+2D	2V	8r	4r	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	-P15
+4D	4V	8r	8A'L	8A'L	1	-P15	P1
+4D	4V	8AA 8C# 8E	(32ALK	(32ALK	1.5	P1	+P5
+4D	4V	8AA 8C# 8E	16e'JJ)	16e'JJ)	1.625	+P5	r
+4D	4V	8AA 8C# 8E	32r	32r	.	r	P1
+4D	4V7d	8r	8e'L	8e'L	2	P1	P1
+4D	4V7d	8GG 8BB 8C# 8E	(32eLK	(32eLK	2.5	P1	+P4
+4D	4V7d	8GG 8BB 8C# 8E	16a'JJ)	16a'JJ)	2.625	+P4	r
+4D	4V7d	8GG 8BB 8C# 8E	32r	32r	.	r	=42
+=42	=42	=42	=42	=42	=42	=42	P1
+4D	4Ib	8r	8a'L	8a'L	1	P1	P1
+4D	4Ib	8FF# 8AA 8D	(32aLK	(32aLK	1.5	P1	+P4
+4D	4Ib	8FF# 8AA 8D	16dd'JJ)	16dd'JJ)	1.625	+P4	r
+4D	4Ib	8FF# 8AA 8D	32r	32r	.	r	P1
+4D	4I	8r	8dd'L	8dd'L	2	P1	P1
+4D	4I	8DD 8FF# 8AA	(32ddLK	(32ddLK	2.5	P1	+M3
+4D	4I	8DD 8FF# 8AA	16ff#'JJ)	16ff#'JJ)	2.625	+M3	r
+4D	4I	8DD 8FF# 8AA	32r	32r	.	r	=43
+=43	=43	=43	=43	=43	=43	=43	P1
+4D	4Vb	8r	8ff#'L	8ff#'L	1	P1	P1
+4D	4Vb	8CC# 8EE 8AA	(32ff#LK	(32ff#LK	1.5	P1	+m2
+4D	4Vb	8CC# 8EE 8AA	16gg'JJ)	16gg'JJ)	1.625	+m2	r
+4D	4Vb	8CC# 8EE 8AA	32r	32r	.	r	P1
+4D	4V7d	8r	8gg'L	8gg'L	2	P1	P1
+4D	4V7d	8GG 8AA	(32ggLK	(32ggLK	2.5	P1	+A4
+4D	4V7d	8GG 8AA	16ccc#'JJ)	16ccc#'JJ)	2.625	+A4	r
+4D	4V7d	8GG 8AA	32r	32r	.	r	=44
+=44	=44	=44	=44	=44	=44	=44	P1
+2D	2Ib	8r	8ccc#'L	8ccc#'L	1	P1	P1
+2D	2Ib	8FF# 8AA	(32ccc#LK	(32ccc#LK	1.5	P1	+m2
+2D	2Ib	8FF# 8AA	16ddd'JJ)	16ddd'JJ)	1.625	+m2	r
+2D	2Ib	8FF# 8AA	32r	32r	.	r	P1
+2D	2Ib	4r	8ddd'L	8ddd'L	2	P1	P1
+2D	2Ib	4r	(32dddLK	(32dddLK	2.5	P1	-P4
+2D	2Ib	4r	16aa'JJ)	16aa'JJ)	2.625	-P4	r
+2D	2Ib	4r	32r	32r	.	r	=45
+=45	=45	=45	=45	=45	=45	=45	P1
+4D	4Vb	8r	8aa'L	8aa'L	1	P1	P1
+4D	4Vb	8CC# 8GG 8AA	(32aaLK	(32aaLK	1.5	P1	-P4
+4D	4Vb	8CC# 8GG 8AA	16ee'JJ)	16ee'JJ)	1.625	-P4	r
+4D	4Vb	8CC# 8GG 8AA	32r	32r	.	r	P1
+4D	4V7d	8r	8ee'L	8ee'L	2	P1	P1
+4D	4V7d	8GG 8AA 8C#	(32eeLK	(32eeLK	2.5	P1	-P5
+4D	4V7d	8GG 8AA 8C#	16a'JJ)	16a'JJ)	2.625	-P5	r
+4D	4V7d	8GG 8AA 8C#	32r	32r	.	r	=46
+=46	=46	=46	=46	=46	=46	=46	P1
+4D	4Ib	8r	8a'L	8a'L	1	P1	P1
+4D	4Ib	8FF# 8AA 8D	(32aLK	(32aLK	1.5	P1	+P4
+4D	4Ib	8FF# 8AA 8D	16dd'JJ)	16dd'JJ)	1.625	+P4	r
+4D	4Ib	8FF# 8AA 8D	32r	32r	.	r	P1
+4D	4I	8r	8dd'L	8dd'L	2	P1	P1
+4D	4I	8D 8F#	(32ddLK	(32ddLK	2.5	P1	-P8
+4D	4I	8D 8F#	16d'JJ)	16d'JJ)	2.625	-P8	r
+4D	4I	8D 8F#	32r	32r	.	r	=47
+=47	=47	=47	=47	=47	=47	=47	P1
+4P	4ii7d	8r	8d'L	8d'L	1	P1	P1
+4P	4ii7d	8D 8E	(32dLK	(32dLK	1.5	P1	+P5
+4P	4ii7d	8D 8E	16a'JJ)	16a'JJ)	1.625	+P5	r
+4P	4ii7d	8D 8E	32r	32r	.	r	P1
+4D	4V	8r	8a'L	8a'L	2	P1	P1
+4D	4V	8AA 8C# 8E	(32aLK	(32aLK	2.5	P1	-P8
+4D	4V	8AA 8C# 8E	16A'JJ)	16A'JJ)	2.625	-P8	r
+4D	4V	8AA 8C# 8E	32r	32r	.	r	=48
+=48	=48	=48	=48	=48	=48	=48	P1
+2T	2I	8r	8A'L	8A'L	1	P1	P1
+2T	2I	8D	(32ALK	(32ALK	1.5	P1	+P4
+2T	2I	8D	16d'JJ)	16d'JJ)	1.625	+P4	r
+2T	2I	8D	32r	32r	.	r	r
+2T	2I	8DD	4r	4r	.	.	.
+2T	2I	8r	4r	.	.	.	.
+*-	*-	*-	*-	*-	*-	*-	*-
