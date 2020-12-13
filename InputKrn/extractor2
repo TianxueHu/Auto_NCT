@@ -28,7 +28,9 @@ assemble tmp4 beat_ps dur scale_deg mint > assem
 	#paste the key spine to the end (don't use assemble because of deleted interpretations will cause misalignment of parts)
 paste assem keytmp > assem2
 	#get rid of all global and local intepretations manually but keep spine interpreations
-grep -v '^!.*' assem2 | grep -v '^\*[^\*-].*' > $(basename $1 .krn)_features.krn
+grep -v '^!.*' assem2 | grep -v '^\*[^\*-].*' > > finaltmp
+sed '/^=/ d' finaltmp > finaltmp2
+ridx -GLId finaltmp2 > melody4R.krn
 
 rm mint
 rm assem

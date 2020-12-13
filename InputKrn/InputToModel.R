@@ -7,9 +7,7 @@
 # then it generates a melody.krn file
 # command: ./recnum melody.krn > raw_melody_num.krn
 # command: ./extractor (a filename, here is raw_melody_num.krn)
-# then it generates **_features.krn file 
-# command: sed '/^=/ d' raw_melody_num_features.krn > tmp.krn
-# command: ridx -GLId tmp.krn > melody4R.krn
+# then it generates melody4R.krn
 #
 #R: InputToModel.R
 

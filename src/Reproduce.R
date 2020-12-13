@@ -97,20 +97,43 @@ auc1
 
 fitted.results <- predict(model,newdata=subset(data_test2,select=c(5,16,19,18)),type='response') #HAYDN
 #which( colnames(data_test2)=="onOffBeat" )
-fitted.results <- ifelse(fitted.results > 0.46,1,0)
+fitted.results <- ifelse(fitted.results > 0.5,1,0)
 misClasificError <- mean(fitted.results != data_test2$Response)
-table(fitted.results,data_test2$Response)
-#print(paste('result',i))
 print(paste('Accuracy',1-misClasificError))
+xtab <- table(Predicted = fitted.results,Actual = data_test2$Response)
+xtab
+library(caret) 
+confusionMatrix(xtab)
+confusionMatrix(xtab,mode = "prec_recall", positive="1")
+#print(paste('result',i))
+
 
 p1 <- predict(model, newdata=subset(data_test2,select=c(5,16,19,18)), type="response") #haydn
 pr1 <- prediction(p1, data_test2$Response)
 prf1 <- performance(pr1, measure = "tpr", x.measure = "fpr")
-#plot(prf1)
+plot(prf1)
 
 auc1 <- performance(pr1, measure = "auc")
 auc1 <- auc1@y.values[[1]]
 auc1
+
+TN<-table(fitted.results,data_test2$Response)[1,1]
+FP<-table(fitted.results,data_test2$Response)[2,1]
+FP
+FN<-table(fitted.results,data_test2$Response)[1,2]
+TP<-table(fitted.results,data_test2$Response)[2,2]
+
+#Precision = TP/TP+FP
+PPV<-TP/(TP+FP)
+print(paste('PPV',PPV))
+
+#Recall = TP/TP+FN
+recall <-TP/(TP+FN)
+print(paste('recall',recall))
+
+#f1 score
+f1<- 2*(PPV*recall)/(PPV+recall)
+print(paste('f1',f1))
 
 ###TEST ON HAYDN
 ###[1] "Accuracy 0.706008243500317"
